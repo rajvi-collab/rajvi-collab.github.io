@@ -35,7 +35,7 @@
 <!--      LEFT SIDEBAR         -->
 <!-- ========================= -->
 
-<td width="35%" style="background:#D6ECFF; padding:20px; border-right:1px solid #dcdcdc;">
+<td width="45%" style="padding:15px">
 
 <h2>📘 Education</h2>
 
@@ -97,10 +97,10 @@ Secure Coding, CodeQL, Agile, TDD
 <!--      MAIN CONTENT         -->
 <!-- ========================= -->
 
-<td width="65%" style="padding:20px;">
+<td width="55%" style="padding:20px;">
 
 <!-- CARD -->
-<table width="100%" style="border:1px solid #dcdcdc; border-radius:10px; padding:15px;">
+<table width="100%" style="padding:15px;">
 <tr><td>
 
 <h2 style="color:#1E90FF;">💼 Work Experience</h2>
@@ -144,7 +144,7 @@ Cyber Infrastructure, India (Feb 2018 – July 2021)
 <br>
 
 <!-- CARD -->
-<table width="100%" style="border:1px solid #dcdcdc; border-radius:10px; padding:15px;">
+<table width="100%" style="padding:15px;">
 <tr><td>
 
 <h2 style="color:#1E90FF;">🧪 Projects</h2>
@@ -173,12 +173,3 @@ Python • Django • PostgreSQL • MySQL
 <!-- ========================= -->
 <!--      GITHUB STATS         -->
 <!-- ========================= -->
-
-<div align="center">
-
-## <span style="color:#1E90FF;">📊 GitHub Stats</span>
-
-<img src="https://github-readme-stats.vercel.app/api?username=rajvi-collab&show_icons=true&theme=default&hide_border=true&title_color=1E90FF&icon_color=1E90FF" height="160">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajvi-collab&layout=compact&theme=default&hide_border=true&title_color=1E90FF" height="160">
-
-</div>

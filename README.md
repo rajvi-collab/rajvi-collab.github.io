@@ -45,7 +45,6 @@ University of Alabama in Huntsville (Aug 2023 – Aug 2025)<br>
 <b>Focus:</b> Software Engineering, AI, Data Science  
 <b>Award:</b> Full Merit Scholarship  
 
-<br>
 
 <h2>📚 Coursework</h2>
 
@@ -54,38 +53,30 @@ University of Alabama in Huntsville (Aug 2023 – Aug 2025)<br>
 • Analysis & Design of Algorithms  
 • Machine Learning  
 
-<br>
 
 <h2>🛠 Technical Skills</h2>
 
 <b>Languages:</b><br>
 Python, C++, JavaScript, Java  
-<br>
 
 <b>Frameworks:</b><br>
 PySpark, React, Node.js, Django  
-<br>
 
 <b>Tools:</b><br>
 Docker, Kubernetes, GitHub Actions, Jenkins  
-<br>
 
 <b>Databases:</b><br>
 MySQL, PostgreSQL, MongoDB  
-<br>
 
 <b>Cloud:</b><br>
 AWS (EC2, S3), Azure, Google Cloud  
-<br>
 
 <b>Other:</b><br>
 Pandas, NumPy, Scikit‑learn, JSON, JIRA, Linux  
-<br>
 
 <b>Practices:</b><br>
 Secure Coding, CodeQL, Agile, TDD  
 
-<br>
 
 <h2>📜 Certifications</h2>
 
@@ -97,13 +88,13 @@ Secure Coding, CodeQL, Agile, TDD
 <!--      MAIN CONTENT         -->
 <!-- ========================= -->
 
-<td width="55%" style="padding:20px;">
+<td width="55%" style="padding:15px">
 
 <!-- CARD -->
-<table width="100%" style="padding:15px;">
-<tr><td>
+<!-- <table width="100%" style="padding:15px;"> -->
 
-<h2 style="color:#1E90FF;">💼 Work Experience</h2>
+
+<h2>💼 Work Experience</h2>
 
 <b>Software Engineer – Backend (Volunteer)</b><br>
 Digital Aid Seattle, WA (Oct 2025 – Present)  
@@ -138,10 +129,9 @@ Cyber Infrastructure, India (Feb 2018 – July 2021)
 • Reduced integration failures by <b>30%</b> by debugging Python microservices (Django/Flask).  
 • Resolved backend–frontend API mismatches to ensure on‑time delivery.  
 
-</td></tr>
-</table>
+<!-- </td></tr>
+</table> -->
 
-<br>
 
 <!-- CARD -->
 <table width="100%" style="padding:15px;">
@@ -167,9 +157,3 @@ Python • Django • PostgreSQL • MySQL
 </td>
 </tr>
 </table>
-
-<br><br>
-
-<!-- ========================= -->
-<!--      GITHUB STATS         -->
-<!-- ========================= -->
